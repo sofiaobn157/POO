@@ -1,0 +1,18 @@
+Identificadores válidos:
+
+numeroTarjeta: Comienza con una letra.
+_acceso: Comienza con un guion bajo.
+PRIMER_VALOR: Es un identificador completamente en mayúsculas
+edad6: Puede incluir números, siempre y cuando no sea el primer carácter.
+$inventario: El signo de dólar está permitido en identificadores.
+
+
+Identificadores no válidos:
+
+1inventario: Identificador no válido porque comienza por un dígito.
+__precio:final : no válido porque contiene el carácter : 
+byte : no válido porque es una palabra reservada del lenguaje
+"Nombre" : No válido porque no puede contener comillas
+el nombre:No puede incluir espacios en blanco.
+
+
